@@ -1,44 +1,44 @@
 # 🍽️ MENU FINAL — BISTROT NUMÉRIQUE
 
 **Service du 2 juillet 2026**  
-*Cuisine du chef Auguste, validée par la critique gastronomique*  
+*Cuisine du chef Auguste, validée par la critique gastronomique Anton*  
 *Démarche zéro déchet confirmée sur l'ensemble du menu*
 
 ---
 
-## 🥂 ENTRÉE — « Écrin de Foie Gras & Betterave »
+## 🥂 ENTRÉE — « Périgord Noir — Foie Gras & Champignons Sauvages »
 
-**Foie gras en croûte de sel, betteraves rôties caramélisées, persil frais**
+**Foie gras poêlé croustillant, champignons sauvages revenus, échalotes confites, tuile Comté vieilli**
 
-Foie gras cuit 5 minutes en croûte de sel pour une texture fondante irréprochable, reposant sur un lit de betteraves rôties caramélisées à l'huile d'olive. Finition de persil plat frais ciselé, poivre noir moulu et fleur de sel cristalline.
+Foie gras séché 30 minutes, poêlé 1 minute par face pour une croûte dorée et cœur tremblotant. Champignons sauvages (shiitake et champignons de Paris) revenus au beurre de Normandie. Échalotes confites au vinaigre balsamique apportant l'acidité recherchée. Tuile de Comté vieilli croustillante torréfiée à 180°C. Dressage épuré : champignons en fond, foie gras au centre, échalotes en accent, tuile en arrière-plan.
 
-*Ingrédients : foie gras frais, betteraves rôties, persil plat frais, sel de Guérande, fleur de sel, poivre noir moulu, huile d'olive vierge extra.*
+*Ingrédients : foie gras frais, shiitake, champignons de Paris, échalotes, vinaigre balsamique, Comté vieilli, beurre de Normandie, sel de Guérande, poivre blanc, persil plat frais, thym frais.*
 
-> **✅ Validée — Critique : 8/10** « Suppression du Shichimi Togarash = harmonie retrouvée. Cuisson en croûte de sel magistrale. Classique mais cohérent. »
-
----
-
-## 🍖 PLAT — « Filet de Bœuf Affiné — Carottes Primeur »
-
-**Filet de bœuf en fine croûte de poivre, carottes primeur poêlées croquantes, beurre-ail-thym**
-
-Filet de bœuf français saisi à feu vif puis finalisé au four, enrobé d'une fine croûte de poivre noir. Carottes primeur de juillet poêlées jusqu'à caramélisation, offrant le contraste croquant et saisonnier. Finition beurre de Normandie, ail frais et thym. Repos en papier alu pour conservation du moelleux.
-
-*Ingrédients : filet de bœuf français (250g), carottes primeur, fine croûte de poivre noir, sel de Guérande (assaisonnement généreux), beurre de Normandie, ail frais, thym frais, huile d'olive vierge extra.*
-
-> **✅ Validée — Critique & Client : 7.5/10** « Réduction de la croûte de poivre élimine le risque d'amertume. Carottes primeur apportent saisonnalité et contraste texture. Exécution précise exigée. »
+> **✅ Validée — Critique : 8/10** « Technique impeccable du foie gras. Cohérence régionale authentique. Classique sincère et fiable. L'honnêteté du titre restaure la confiance. »
 
 ---
 
-## 🍓 DESSERT — « Panna Cotta Satinée aux Fraises & Coulis de Cerises »
+## 🍗 PLAT PRINCIPAL — « Le Bresse Sublime aux Trois Champignons »
 
-**Panna Cotta tremblotante, fraises macérées au balsamique, coulis de cerises, coriandre fraîche**
+**Poulet fermier de Bresse en suprême, trois champignons, sauce crème fraîche aux herbes, pommes de terre Ratte croustillantes**
 
-Panna Cotta à base de crème fraîche et fromage blanc fermier, reposée une nuit pour texture soyeuse et tremblotante parfaite. Fraises fraîches de saison macérées à froid avec vinaigre balsamique pour exalter leur nature. Coulis de cerises réduites en couleur rubis profond. Finition coriandre fraîche plumetée et cristaux de sucre scintillants.
+Poulet fermier de Bresse cuit à basse température (62°C à cœur) pour une tendreté légendaire. Champignons de Paris et shiitakes sautés séparément au beurre de Normandie pour conserver leurs jus. Sauce crème fraîche infusée au thym et laurier. Pommes de terre Ratte rôties au four à l'huile d'olive jusqu'à croustillant doré. Poireaux tendres fondus en accompagnement. Dressage classique revisité : poulet en position fière, champignons en couronne, légumes harmonieusement disposés.
 
-*Ingrédients : crème fraîche épaisse, fromage blanc fermier, fraises fraîches, cerises fraîches réduites, coriandre fraîche, vinaigre balsamique, poire, cristaux de sucre.*
+*Ingrédients : poulet fermier de Bresse, champignons de Paris, shiitakes, pommes de terre Ratte, poireaux, crème fraîche, beurre de Normandie, huile d'olive vierge extra, thym frais, laurier, sel de Guérande, poivre noir.*
 
-> **✅ Validée — Critique : 8/10** « Technique impeccable, saisonnalité exemplaire. Équilibre sucre/acidité orchestré finement. Vigilance : coriandre peut dominer certains palais — tester auprès de la clientèle. »
+> **✅ Validée — Critique : 7.5/10** « Qualité des matières premières de prestige. Harmonie classique des saveurs avec trois champignons créant une symphonie umami. Technique maîtrisée, textures bien pensées. Plat solide et gastronomiquement honnête. »
+
+---
+
+## 🍓 DESSERT — « Oraison Fraise & Poire — Croquant Miel »
+
+**Panna Cotta fraise à la vanille, poire confite au thym, tuile miel-farine croustillante**
+
+Panna Cotta à base de crème fraîche et fromage blanc fermier, reposée 6 heures pour texture soyeuse tremblotante. Fraises fraîches de saison macérées sucre-vanille (10 min) pour jus naturel concentré. Poires pelées et pochées 12 minutes en eau + sucre + thym + citron pour tendreté parfumée et saveur herbacée subtile. Tuile miel-farine : farine + sucre + miel + beurre fondu, torréfiée 7 min à 180°C jusqu'à croustillant doré caramélisé. Dressage : panna cotta bombée au centre, demi-fraise macérée en biais, demi-poire confite érigée à l'arrière, tuile miel brisée en accent croquant. Finition : goutte de miel cristallin et brin de thym frais ciselé.
+
+*Ingrédients : crème fraîche, fromage blanc fermier, fraises fraîches, poires, miel, farine, sucre, beurre de Normandie, vanille vraie, thym frais, citron.*
+
+> **✅ Validée — Critique : 7/10** « Réduction à 2 fruits élimine la surcharge. Thym à la place du poivre/coriandre est subtil et sophistiqué. Équilibre des textures fonctionne. Technique cohérente. Dessert sincère et techniquement solide. »
 
 ---
 
@@ -46,19 +46,20 @@ Panna Cotta à base de crème fraîche et fromage blanc fermier, reposée une nu
 
 | **Plat** | **Critique** | **Client** | **Corrections effectuées** | **Statut** |
 |----------|-------------|-----------|---------------------------|-----------|
-| **Entrée** | 8/10 | ✓ Approuve | 1 tour (retrait Shichimi, sel ↑) | ✅ VALIDÉE |
-| **Plat** | 7.5/10 | 7.5/10 | 1 tour (poivre réduit, carottes + sel ↑) | ✅ VALIDÉE |
-| **Dessert** | 8/10 | 7/10 | 0 tour | ✅ VALIDÉE |
+| **Entrée** | 8/10 | 8.5/10 | 2 tours (composition + titrage honnête) | ✅ VALIDÉE |
+| **Plat Principal** | 7.5/10 | 7.5/10 | Aucune | ✅ VALIDÉE |
+| **Dessert** | 7/10 | 8.5/10 | 1 tour (simplification fruitée) | ✅ VALIDÉE |
 
-**TOTAL : 2 tours de correction au maximum (respecté) — Tous plats validés au premier ou deuxième tour !**
+**TOTAL : 3 tours de correction (max respecté) — Tous plats validés !**
 
-**Moyenne du menu : 7,8/10** ✅
+**Moyenne Critique : 7.5/10** ✅  
+**Moyenne Client : 8.25/10** ✅
 
 ---
 
 ## 👨‍🍳 PHILOSOPHIE DU CHEF
 
-*"Un service d'excellence où j'ai écouté sans renier ma vision. Les corrections apportées — suppression du Shichimi qui cassait l'harmonie française, réduction du poivre généreux, introduction des carottes primeur de saison — ont transformé les plats en symphonies culinaires cohérentes. Respect absolu de la qualité des ingrédients français de premier ordre. Zéro déchet : chaque épluchure devient un fondement savoureux pour demain."*
+*"Un service où j'ai écouté les critiques sans perdre mon honneur. Les corrections apportées — simplification de l'entrée, clarification du titre (retrait de la truffe fantôme), réduction des fruits au dessert — ont forgé des plats authentiques et sincères. Chaque composant parle. Zéro déchet : les épluchures deviennent des fondements savoureux pour demain. C'est ça, la vraie cuisine."*
 
 — Chef Auguste, Bistrot Numérique
 
@@ -69,9 +70,10 @@ Panna Cotta à base de crème fraîche et fromage blanc fermier, reposée une nu
 ✅ Technique culinaire impeccable (validation critique)  
 ✅ Ingrédients français de première qualité  
 ✅ Saisonnalité juillet 2026 respectée sur l'ensemble  
-✅ Harmonie gustative et équilibre saveurs validés  
+✅ Harmonie gustative validée par critique et client  
 ✅ Dressage épuré, élégant et cohérent  
 ✅ Démarche zéro déchet confirmée  
+✅ Honnêteté absolue du menu (pas de chimères)  
 ✅ Exécution précise et constance exigées  
 
 **Bon appétit! 🍽️**
