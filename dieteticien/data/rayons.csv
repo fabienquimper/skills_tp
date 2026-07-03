@@ -1,0 +1,69 @@
+# Miroir MACHINE de rayons.md (source pour les scripts, ex. generer.py).
+# Si tu modifies un classement, mets à jour les DEUX fichiers.
+# rayon : Fruits & légumes | Boucherie / Volaille | Poissonnerie | Crémerie / Frais |
+#         Épicerie salée | Épicerie sucrée | Surgelés | Boissons | Divers / à vérifier
+ingredient,rayon
+eau,Boissons
+oignon,Fruits & légumes
+échalote,Fruits & légumes
+ail,Fruits & légumes
+tomate,Fruits & légumes
+courgette,Fruits & légumes
+poivron rouge,Fruits & légumes
+carotte,Fruits & légumes
+pomme de terre,Fruits & légumes
+potimarron,Fruits & légumes
+épinard,Fruits & légumes
+salade verte,Fruits & légumes
+champignon de Paris,Fruits & légumes
+petits pois,Fruits & légumes
+banane,Fruits & légumes
+pomme,Fruits & légumes
+citron,Fruits & légumes
+blanc de poulet,Boucherie / Volaille
+cuisse de poulet,Boucherie / Volaille
+boeuf haché 5%,Boucherie / Volaille
+jambon blanc,Boucherie / Volaille
+lardons,Boucherie / Volaille
+saumon,Poissonnerie
+crevette,Poissonnerie
+oeuf,Crémerie / Frais
+lait demi-écrémé,Crémerie / Frais
+yaourt nature,Crémerie / Frais
+fromage blanc,Crémerie / Frais
+crème fraîche,Crémerie / Frais
+feta,Crémerie / Frais
+emmental,Crémerie / Frais
+parmesan,Crémerie / Frais
+beurre,Crémerie / Frais
+pois chiches,Épicerie salée
+lentilles vertes,Épicerie salée
+haricots rouges,Épicerie salée
+riz blanc cuit,Épicerie salée
+riz basmati cru,Épicerie salée
+pâtes cuites,Épicerie salée
+farine de blé,Épicerie salée
+semoule de blé,Épicerie salée
+pain,Épicerie salée
+flocons d'avoine,Épicerie salée
+thon au naturel,Épicerie salée
+tomate concassée,Épicerie salée
+concentré de tomate,Épicerie salée
+lait de coco,Épicerie salée
+huile d'olive,Épicerie salée
+huile de tournesol,Épicerie salée
+sel,Épicerie salée
+bouillon de légumes,Épicerie salée
+curry en poudre,Épicerie salée
+curcuma,Épicerie salée
+amandes,Épicerie salée
+noix,Épicerie salée
+sucre,Épicerie sucrée
+miel,Épicerie sucrée
+cannelle,Épicerie sucrée
+saucisse fumée,Boucherie / Volaille
+gingembre,Fruits & légumes
+chou,Fruits & légumes
+thym,Fruits & légumes
+moutarde,Épicerie salée
+protéine de soja texturée,Épicerie salée

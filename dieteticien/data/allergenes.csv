@@ -1,0 +1,72 @@
+# Allergènes par ingrédient — 14 catégories à déclaration obligatoire (UE, règlement INCO 1169/2011).
+# Slugs : gluten, crustaces, oeufs, poissons, arachides, soja, lait, fruits-a-coque, celeri,
+#         moutarde, sesame, sulfites, lupin, mollusques. "aucun" = aucun des 14.
+# Colonne `allergenes`   : allergènes habituellement PRÉSENTS dans l'ingrédient brut (;-séparés).
+# Colonne `traces_possibles` : allergènes fréquemment présents selon le produit/la marque
+#         (additifs, recette industrielle) ou par contamination croisée. Indicatif.
+# ⚠️ Aide à l'information, NE VAUT PAS certification. Toujours vérifier l'étiquette du fournisseur.
+ingredient,allergenes,traces_possibles
+eau,aucun,
+oignon,aucun,
+échalote,aucun,
+ail,aucun,
+tomate,aucun,
+tomate concassée,aucun,
+concentré de tomate,aucun,
+courgette,aucun,
+poivron rouge,aucun,
+carotte,aucun,
+pomme de terre,aucun,
+potimarron,aucun,
+épinard,aucun,
+salade verte,aucun,
+champignon de Paris,aucun,
+petits pois,aucun,
+pois chiches,aucun,
+lentilles vertes,aucun,
+haricots rouges,aucun,
+riz blanc cuit,aucun,
+riz basmati cru,aucun,
+pâtes cuites,gluten,oeufs
+flocons d'avoine,gluten,fruits-a-coque
+farine de blé,gluten,
+pain,gluten,soja;sesame;lait
+semoule de blé,gluten,
+blanc de poulet,aucun,
+cuisse de poulet,aucun,
+boeuf haché 5%,aucun,
+jambon blanc,aucun,lait;soja
+lardons,aucun,lait;soja
+oeuf,oeufs,
+thon au naturel,poissons,
+saumon,poissons,
+crevette,crustaces,
+lait demi-écrémé,lait,
+yaourt nature,lait,
+fromage blanc,lait,
+crème fraîche,lait,
+feta,lait,
+emmental,lait,
+parmesan,lait,
+beurre,lait,
+huile d'olive,aucun,
+huile de tournesol,aucun,
+lait de coco,aucun,
+banane,aucun,
+pomme,aucun,
+citron,aucun,
+amandes,fruits-a-coque,
+noix,fruits-a-coque,
+sucre,aucun,
+miel,aucun,
+sel,aucun,
+cannelle,aucun,
+curry en poudre,aucun,moutarde;celeri
+curcuma,aucun,
+bouillon de légumes,celeri,gluten;soja;lait
+saucisse fumée,aucun,lait;soja;gluten
+gingembre,aucun,
+chou,aucun,
+moutarde,moutarde,sulfites
+protéine de soja texturée,soja,gluten
+thym,aucun,

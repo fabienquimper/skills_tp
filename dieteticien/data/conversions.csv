@@ -1,0 +1,28 @@
+# Miroir MACHINE de conversions.md (source pour les scripts, ex. generer.py).
+# Si tu modifies les conversions, mets à jour les DEUX fichiers.
+# type=unite : facteur en grammes pour 1 unité (générique, indépendant de l'ingrédient).
+# type=piece : poids moyen en grammes d'1 pièce de cet ingrédient (sinon fallback 100 g).
+cle,type,grammes
+g,unite,1
+ml,unite,1
+c. à soupe,unite,15
+c. à café,unite,5
+pincée,unite,0.5
+gousse,unite,5
+verre,unite,200
+oignon,piece,110
+échalote,piece,25
+tomate,piece,120
+courgette,piece,200
+carotte,piece,80
+pomme de terre,piece,150
+poivron rouge,piece,150
+potimarron,piece,1200
+citron,piece,100
+pomme,piece,150
+banane,piece,120
+oeuf,piece,55
+blanc de poulet,piece,150
+jambon blanc,piece,40
+saucisse fumée,piece,75
+chou,piece,1000
