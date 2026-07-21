@@ -46,3 +46,39 @@ Si un jour tu veux aussi qu'un message visible s'affiche au développeur dans le
 ## Maintenance
 
 `CORE-RULES.md` vit dans le repo du plugin, versionné avec lui. Une mise à jour du framework = un commit dans ce fichier + publication d'une nouvelle version du plugin. Les devs n'ont rien à faire : à la prochaine session (ou après `/reload-plugins`), le `cat` sert la version à jour.
+
+
+
+
+problème initial 
+
+Voici la synthèse de toute la réflexion qu'on a menée.
+
+## Le problème de départ
+
+Comment distribuer un référentiel d'entreprise volumineux (400-500 fichiers Markdown de règles/framework) à 500 développeurs via un plugin Claude Code, sachant que :
+- **Hygiène Git** : interdiction de copier ces fichiers dans chaque dépôt applicatif.
+- **Coût token** : interdiction de charger tout le corpus en mémoire à chaque session.
+- **DX** : le moins d'actions manuelles possible pour les 500 devs.
+- **Infra simple** : pas de serveur distant, pas de base vectorielle.
+- **Le blocage technique** : Claude Code ne charge nativement que les règles situées dans le dossier local du projet — jamais celles rangées passivement à l'intérieur d'un plugin. Il fallait un "pont" pour contourner ça.
+
+## Première proposition (que j'ai fait évoluer)
+
+J'ai d'abord proposé une architecture assez lourde : des dizaines de Skills documentaires (un par domaine), un éventuel serveur MCP local pour la recherche, et un `@import` dans le **CLAUDE.md global** du développeur (`~/.claude/CLAUDE.md`) pour faire le pont.
+
+## Ta première objection, décisive
+
+Tu as pointé que le CLAUDE.md global pollue **tous** les projets du développeur, pas seulement ceux qui utilisent ce framework — un dev avec 10 projets dont 3 seulement concernés se retrouverait avec ce contexte chargé partout. Il fallait un scoping **par projet**, pas par machine. Ça nous a amenés à découvrir que Claude Code permet justement d'activer un plugin en **scope "project"** via `.claude/settings.json` (un fichier commité, mais qui ne contient qu'une référence au plugin — pas les 500 fichiers). Ça réglait le scoping *et* renforçait la DX : c'est même une action unique par repo (pas par dev), faite une fois par un tech lead.
+
+## Ta deuxième objection : la mutualisation des règles
+
+Tu ne voulais pas que chaque skill répète les mêmes ~50 règles transverses. Il fallait un mécanisme "comme un CLAUDE.md, mais qui vivrait dans le plugin" — une base commune chargée une fois, sur laquelle les skills s'appuient sans redite.
+
+## L'architecture finale, à deux niveaux
+
+- **Niveau A (socle commun)** : les ~50 règles fondamentales, dans un simple fichier `CORE-RULES.md`, injectées **verbatim** à chaque session via un hook `SessionStart` qui ne fait qu'un `cat` de ce fichier — sous le plafond de 10 000 caractères, donc toujours présentes, sans qu'aucun skill n'ait à les répéter.
+- **Niveau B (corpus détaillé)** : les 400+ fichiers de doc restent sur disque dans le plugin, jamais injectés d'office. Claude les découvre via un index pointeur et les lit à la demande avec ses outils natifs Read/Grep — pas besoin de MCP ni de base vectorielle pour ça.
+- **Skills** : réservées aux vraies procédures outillées (scaffolding, checks), pas à la documentation — elles s'appuient sur le Niveau A déjà en contexte.
+- **Application forcée** : un hook `PreToolUse` pour les règles vraiment bloquantes — seule couche réellement déterministe, le reste restant consultatif.
+- **Distribution/scoping** : plugin déclaré en scope "project" dans `.claude/settings.json`, commité une fois par repo — zéro action répétée pour les 500 devs, zéro pollution des projets non concernés.
