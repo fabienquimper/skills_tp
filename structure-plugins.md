@@ -82,3 +82,27 @@ Tu ne voulais pas que chaque skill répète les mêmes ~50 règles transverses. 
 - **Skills** : réservées aux vraies procédures outillées (scaffolding, checks), pas à la documentation — elles s'appuient sur le Niveau A déjà en contexte.
 - **Application forcée** : un hook `PreToolUse` pour les règles vraiment bloquantes — seule couche réellement déterministe, le reste restant consultatif.
 - **Distribution/scoping** : plugin déclaré en scope "project" dans `.claude/settings.json`, commité une fois par repo — zéro action répétée pour les 500 devs, zéro pollution des projets non concernés.
+
+
+
+
+règle pour mettre en avant des choses
+
+
+## Règles d'or — SKILL.md efficace
+
+1. **Balises XML** ✅ — Utiliser `<instructions>`, `<example>`, `<formatting>` pour séparer les parties du prompt. Évite que Claude mélange contexte/instructions/exemples.
+
+2. **Pas de MAJUSCULES criées** ❌ — Anthropic déconseille ALWAYS/NEVER en majuscules. Préférer expliquer le *pourquoi* plutôt que crier une règle rigide.
+
+3. **Titres vs gras** ❓ — Pas de mécanisme documenté. Utiliser des titres pour la lisibilité, point.
+
+4. **Instructions affirmatives** ✅ — Dire quoi faire, pas quoi éviter. Test simple : un collègue sans contexte doit pouvoir suivre le prompt sans confusion.
+
+5. **Concision = priorité** — Chaque token du SKILL.md entre en compétition avec le reste du contexte. Ne mettre que ce que Claude ne sait pas déjà.
+
+6. **La `description` est reine** — C'est elle qui décide si le skill se déclenche parmi 100+ skills possibles. Doit être précise et couvrir les cas d'usage réels.
+
+7. **Tester en conditions réelles** — Faire écrire le skill par Claude, le faire tester par une instance fraîche sur des vraies tâches, avant de figer.
+
+Tu veux que je transforme ça en template SKILL.md prêt à l'emploi ?
